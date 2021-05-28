@@ -1,4 +1,11 @@
+I seriously need to work on follow through... 
+
+
 Use when there is a one to many relationship between objects. 
 If one object is changed and the other objects need to know about it. 
 
 Three types of objects: Subject, observer, and Client 
+
+This example implements a weather station (Head First into Design Patterns). 
+
+Weather station, Weather data object, and Display 
