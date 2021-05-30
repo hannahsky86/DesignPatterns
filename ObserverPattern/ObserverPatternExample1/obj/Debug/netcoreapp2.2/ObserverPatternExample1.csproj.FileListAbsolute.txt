@@ -3,9 +3,10 @@
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/bin/Debug/netcoreapp2.2/ObserverPatternExample1.runtimeconfig.dev.json
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/bin/Debug/netcoreapp2.2/ObserverPatternExample1.dll
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/bin/Debug/netcoreapp2.2/ObserverPatternExample1.pdb
-/Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.csprojAssemblyReference.cache
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.csproj.CoreCompileInputs.cache
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.AssemblyInfoInputs.cache
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.AssemblyInfo.cs
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.dll
 /Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.pdb
+/Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.csproj.AssemblyReference.cache
+/Users/hannahroach/Desktop/DesignPatterns/ObserverPattern/ObserverPatternExample1/obj/Debug/netcoreapp2.2/ObserverPatternExample1.genruntimeconfig.cache

@@ -9,3 +9,8 @@ Three types of objects: Subject, observer, and Client
 This example implements a weather station (Head First into Design Patterns). 
 
 Weather station, Weather data object, and Display 
+
+Display elements: humidity, temperature, pressure 
+
+
+Objective: Create an app that uses the WeatherData object to update the displays
