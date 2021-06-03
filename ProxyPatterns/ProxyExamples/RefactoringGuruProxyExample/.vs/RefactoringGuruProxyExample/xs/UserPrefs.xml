@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8E774F10-084E-443E-9D92-CBFD9664A200}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProxyForObject.cs">
+    <Files>
+      <File FileName="MyClient.cs" Line="1" Column="1" />
+      <File FileName="ObjectInterface.cs" Line="1" Column="1" />
+      <File FileName="ObjectThatDoesWork.cs" Line="1" Column="1" />
+      <File FileName="ProxyExample.cs" Line="1" Column="1" />
+      <File FileName="ProxyForObject.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RefactoringGuruProxyExample" expanded="True">
+            <Node name="RefactoringGuruProxyExample" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProxyExample1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

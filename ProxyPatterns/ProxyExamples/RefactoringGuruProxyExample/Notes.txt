@@ -1,0 +1,13 @@
+﻿Proxy Pattern
+
+This pattern allows you to control access to the object doing the work
+It also lets you directly access the methods in the object doing the work through
+the proxy
+A proxy represents the object doing the work and may do some work of its own
+
+Do use this pattern
+1. Create your object that does the work
+2. Create an interface with the same methods as the object
+3. Create a proxy that implements the interface
+4. Pass a reference to the object to the proxy
+5. In the proxy methods call the methods of the object

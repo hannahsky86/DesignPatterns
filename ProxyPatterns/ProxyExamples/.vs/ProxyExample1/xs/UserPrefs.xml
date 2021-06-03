@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.RefactoringGuruProxyExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RefactoringGuruProxyExample/Notes.txt">
+    <Files>
+      <File FileName="RefactoringGuruProxyExample/Notes.txt" Line="15" Column="1" />
+      <File FileName="RefactoringGuruProxyExample/ProxyExample.cs" />
+      <File FileName="RefactoringGuruProxyExample/ProxyForObject.cs" />
+      <File FileName="RefactoringGuruProxyExample/ObjectInterface.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProxyExample1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hannahroach/Desktop/DesignPatterns/ProxyPatterns/ProxyExamples/RefactoringGuruProxyExample/ProxyExample.cs" relfile="RefactoringGuruProxyExample/ProxyExample.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

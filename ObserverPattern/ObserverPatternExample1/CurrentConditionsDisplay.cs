@@ -1,4 +1,6 @@
 
+using System;
+
 public class CurrentConditionsDisplay : IObserver, IDisplayElement
 {
     private float temperature;
@@ -13,11 +15,13 @@ public class CurrentConditionsDisplay : IObserver, IDisplayElement
 
     public void display()
     {
-        throw new System.NotImplementedException();
+        Console.WriteLine("Current conditions :" + temperature + "Humidity: " + humidity);
     }
 
     public void update(float temp, float humidity, float pressure)
     {
-        throw new System.NotImplementedException();
+        this.temperature = temp;
+        this.humidity = humidity;
+        display();
     }
 }
