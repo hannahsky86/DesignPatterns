@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{27ED922A-4589-4881-86B9-92F5CA4F202A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibility/Fish.cs">
+    <Files>
+      <File FileName="ChainOfResponsibility/Program.cs" Line="18" Column="47" />
+      <File FileName="ChainOfResponsibility/Client.cs" Line="36" Column="54" />
+      <File FileName="ChainOfResponsibility/Fish.cs" Line="24" Column="38" />
+      <File FileName="ChainOfResponsibility/AbstractHandler.cs" Line="1" Column="1" />
+      <File FileName="ChainOfResponsibility/Bird.cs" Line="25" Column="1" />
+      <File FileName="ChainOfResponsibility/FlyingFishHandler.cs" Line="30" Column="57" />
+      <File FileName="ChainOfResponsibility/IHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Fish.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
