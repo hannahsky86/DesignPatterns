@@ -24,5 +24,4 @@ namespace ChainOfResponsibility
             return h;
         }
     }
-
 }
