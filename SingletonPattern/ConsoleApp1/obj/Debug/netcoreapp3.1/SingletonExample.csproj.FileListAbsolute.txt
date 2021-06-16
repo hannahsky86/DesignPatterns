@@ -1,0 +1,13 @@
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.exe
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.deps.json
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.runtimeconfig.json
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.runtimeconfig.dev.json
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.dll
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\SingletonExample.pdb
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.AssemblyInfo.cs
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.dll
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.pdb
+C:\Users\hanna\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\SingletonExample.genruntimeconfig.cache
