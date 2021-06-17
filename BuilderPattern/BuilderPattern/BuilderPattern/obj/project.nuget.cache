@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SS1b1LoUdCUfY9GPvYqvya7EOqyG1X+T/NjRqaWWod6XibtbIRgwvs1rqV9o0WumiFWH56I1Tx3amqoPn4q/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\DesignPatterns\\BuilderPattern\\BuilderPattern\\BuilderPattern\\BuilderPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
