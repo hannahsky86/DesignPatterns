@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Factory Pattern",
+    "\\Factory Pattern\\FactoryPattern"
   ],
-  "SelectedNode": "\\Notes",
+  "SelectedNode": "\\Factory Pattern",
   "PreviewInSolutionExplorer": false
 }

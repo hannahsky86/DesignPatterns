@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXb+ouqXpRffgTEnthmM703XjZPpPCxN7dOA4oTIJwHABhsyhdlGS7LXsyX1sZrB2r5gid4L7o8AVuOTtbvXCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\DesignPatterns\\Factory Pattern\\FactoryPattern\\FactoryPatternExample2\\FactoryPatternExample2\\FactoryPatternExample2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

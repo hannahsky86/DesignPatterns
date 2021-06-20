@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYFLr+tgYGpGut4IkJgOprgrxbv+hy4b9WtKbHsG+8w+eX2k1mHBnTsanZnfNznQwSQE2Z3RQggjK8eVZizKBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\DesignPatterns\\Factory Pattern\\FactoryPattern\\FactoryPatternExample3\\HotDrinkFactoryExample\\HotDrinkFactoryExample\\HotDrinkFactoryExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
