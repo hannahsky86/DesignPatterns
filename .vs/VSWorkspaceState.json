@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Factory Pattern",
-    "\\Factory Pattern\\FactoryPattern"
+    "\\Factory Pattern\\Abstract Factory"
   ],
-  "SelectedNode": "\\Factory Pattern",
+  "SelectedNode": "\\Factory Pattern\\Abstract Factory",
   "PreviewInSolutionExplorer": false
 }
