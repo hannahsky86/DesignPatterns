@@ -1,0 +1,13 @@
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.exe
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.deps.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\bin\Debug\netcoreapp3.1\AdapterExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Adapter\AdapterExample\AdapterExample\obj\Debug\netcoreapp3.1\AdapterExample.genruntimeconfig.cache
