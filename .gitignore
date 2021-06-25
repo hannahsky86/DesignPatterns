@@ -5,3 +5,8 @@ obj/*
 bin/*
 
 GameOfLife/*
+.vs/*
+/.vs
+*/.vs/*
+*/obj/*
+*/bin/*
