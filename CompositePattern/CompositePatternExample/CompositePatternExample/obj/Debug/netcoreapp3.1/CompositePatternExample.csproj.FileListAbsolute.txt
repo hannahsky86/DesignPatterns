@@ -1,0 +1,13 @@
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.exe
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.deps.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\bin\Debug\netcoreapp3.1\CompositePatternExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\CompositePattern\CompositePatternExample\CompositePatternExample\obj\Debug\netcoreapp3.1\CompositePatternExample.genruntimeconfig.cache
