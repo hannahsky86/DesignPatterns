@@ -1,0 +1,12 @@
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.exe
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.deps.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\bin\Debug\netcoreapp3.1\DecoratorPatternExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.dll
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.pdb
+C:\Users\hanna\OneDrive\Desktop\DesignPatterns\Decorator\DecoratorPatternExample\DecoratorPatternExample\obj\Debug\netcoreapp3.1\DecoratorPatternExample.genruntimeconfig.cache
