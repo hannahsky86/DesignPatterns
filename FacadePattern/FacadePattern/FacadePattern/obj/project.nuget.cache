@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhN87hHGxvHSweDX0UVjpbIYRzZQPLKHbs90g0yATfDswxptydL1jKDub1HoppVcAVNY64wT6DNh18y1jhTwAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\DesignPatterns\\FacadePattern\\FacadePattern\\FacadePattern\\FacadePattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
