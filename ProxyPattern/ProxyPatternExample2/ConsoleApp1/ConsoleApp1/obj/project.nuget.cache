@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KwC8Uw+oLWRn1ofGICmsVTZldpwWUkjNfV+KF8NQqKKCmDt5+SOHdAnZ6qe69FdkBRZvFg0rXfSM19jwaeXQxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\DesignPatterns\\ProxyPattern\\ProxyPatternExample2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
