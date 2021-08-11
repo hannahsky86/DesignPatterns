@@ -1,12 +1,9 @@
 namespace myApp
 {
-    // The Strategy interface declares operations common to all supported
-    // versions of some algorithm.
-    //
-    // The Context uses this interface to call the algorithm defined by Concrete
-    // Strategies.
-    public interface IStrategy
+
+   //Algorithms that are common
+   public interface IStrategy
     {
-        object DoAlgorithm(object data);
+        void BuildABike(object data);
     }
 }

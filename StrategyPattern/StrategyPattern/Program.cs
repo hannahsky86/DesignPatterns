@@ -1,25 +1,19 @@
 ﻿using System;
 namespace myApp
 {
-    //https://refactoring.guru/design-patterns/strategy/csharp/example
     class Program
     {
         static void Main(string[] args)
         {
-            // The client code picks a concrete strategy and passes it to the
-            // context. The client should be aware of the differences between
-            // strategies in order to make the right choice.
-            var context = new Context();
+            var decisionMaker = new DecisionMaker();
 
-            Console.WriteLine("Client: Strategy is set to normal sorting.");
-            context.SetStrategy(new ConcreteStrategyA());
-            context.DoSomeBusinessLogic();
+            decisionMaker.SetStrategy(new BuildABikeUsingAHammer());
+            decisionMaker.DoMoreWork();
 
             Console.WriteLine();
 
-            Console.WriteLine("Client: Strategy is set to reverse sorting.");
-            context.SetStrategy(new ConcreteStrategyB());
-            context.DoSomeBusinessLogic();
+            decisionMaker.SetStrategy(new BuildABikeUsingAScrewDriver());
+            decisionMaker.DoMoreWork();
         }
     }
 }
