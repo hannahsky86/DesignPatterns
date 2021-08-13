@@ -1,19 +1,32 @@
 
 
               8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
-Read w/ A     1 0
-Work out      0 1
-Keto Sprints  0 0
-Study         0 1
-Socialize     1 1
+Read w/ A     1 0  0  1  1
+Workout       0 1  0  1  0
+Keto Sprints  0 0  1  1  1
+Study         0 1  1  1  0
+Socialize     1 1  1  1  1
 
 Consistency
 
 
 
-8/9/2021
-Apply to UC Berkeley Data Science
-Gather Transcripts
-Recommends
+8/12/2021
+Mail in Costa Rica transcript
+Recommends - one more
 Apply to LTP
 Fix Dell computer
+
+
+Remainig Design Patterns
+State
+Observer
+Memento
+Mediator
+Iterator
+Command
+
+Memorize DPs
+GOF Book
+Cracking the Code Interview
+Modeling and Simulaton
