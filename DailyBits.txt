@@ -1,21 +1,29 @@
 
+September 
+             9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Read w/ A    0 0   1  1
+Workout      0 0   0  0
+Stretch      0 0   0  0
+Keto Sprints 1 1   0  0 
+Study        1 1   1  1
+Socialize    0 1   1  1
 
-              8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
-Read w/ A     1 0  0  1  1
-Workout       0 1  0  1  0
-Keto Sprints  0 0  1  1  1
-Study         0 1  1  1  0
-Socialize     1 1  1  1  1
 
 Consistency
 
 
+9/9/2021
+Finally got my computer back from Dell 
+Time to work on consistency again 
+Summit Challenge was awesome 
 
-8/12/2021
-Mail in Costa Rica transcript
-Recommends - one more
-Apply to LTP
-Fix Dell computer
+
+Data Scinece
+Finish DataCamp.com software track 
+Finish DataCamp.com data science track 
+Kaggle Competition 
+Storytelling with Data Analysis 
+Practical Statistics with Python 
 
 
 Remainig Design Patterns
