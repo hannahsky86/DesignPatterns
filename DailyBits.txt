@@ -1,21 +1,19 @@
 
-September 
-             9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
-Read w/ A    0 0   1  1
-Workout      0 0   0  0
-Stretch      0 0   0  0
-Keto Sprints 1 1   0  0 
-Study        1 1   1  1
-Socialize    0 1   1  1
+
 
 
 Consistency
+Study Leetcode to prep for interviews
+Decide on Berkeley
 
 
-9/9/2021
-Finally got my computer back from Dell 
-Time to work on consistency again 
-Summit Challenge was awesome 
+10/20/2021
+Was accepted to UC Berkeley 
+Moved back to the missile team and taking over a big project 
+Studying Leetcode problems and interviewing with FB and Google 
+A lot of decisions 
+
+
 
 
 Data Scinece
